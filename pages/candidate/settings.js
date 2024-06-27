@@ -1,5 +1,5 @@
 export default function settings() {
     return (
-        <div>settings</div>
+        <Text style={styles.text}>Welcome to Expo + Next.js 👋</Text>
     )
 }
